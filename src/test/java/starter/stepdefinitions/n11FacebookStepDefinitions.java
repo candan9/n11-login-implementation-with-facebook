@@ -55,7 +55,7 @@ public class n11FacebookStepDefinitions {
         actor.attemptsTo(
 
 
-                LoginAsClient.loginThePage("facebook hesabın kullanıcı adı","facebook hesabın şifresi"));
+                LoginAsClient.loginThePage("lespazalte@vusra.com","user1234"));
    }
 
     @Then("user logged in successfully")
